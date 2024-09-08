@@ -1,108 +1,75 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1725833213408 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1725833427251 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833216472 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725833442352 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833219532 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725833445413 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833222589 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725833448477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833225660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725833451536 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833228729 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725833454595 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833231792 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725833457656 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833234857 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725833460715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833237912 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.23): 1725833475804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833240991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725833478859 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833244069 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.23): 1725833481922 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833247134 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833250196 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833253252 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833256307 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833259371 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833262435 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.23): 1725833265499 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-turn-calvin.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-advice-start.gl.at.ply.gg:2733 => 127.0.0.1:2733 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
